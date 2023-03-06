@@ -1,3 +1,1 @@
-demo2 is here git 
-the update is here
-master is here
+demo2 is heregit 
